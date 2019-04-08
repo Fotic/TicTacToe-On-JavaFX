@@ -10,7 +10,7 @@
 
 #### [Oracle JDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 
-#### [JavaFX 11](https://openjfx.io/index.html)
+#### [SceneBuilder](https://gluonhq.com/products/scene-builder/)
 
 ## 🖥️ Screenshots
 ![1](https://a.imagem.app/wlWZ9.png)
